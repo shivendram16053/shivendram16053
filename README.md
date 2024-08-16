@@ -9,6 +9,6 @@ Full stack developer from INDIA.<br>Passionate about WEB3 stuff.<br>Watching Ani
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shibu69&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivendra16053&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
