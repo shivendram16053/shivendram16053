@@ -1,5 +1,5 @@
 # About Me:
-Full stack developer from INDIA.<br>Passionate about WEB3 stuff.<br>Watching Anime is my hobby.
+Full stack developer from INDIA.<br>Passionate about WEB3 stuff.
 
 # You can connect with me on :
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shivendram16053) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivendramishra1922) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shivendram16053) 
