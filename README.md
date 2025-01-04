@@ -1,5 +1,5 @@
 # About Me:
-Full stack developer || web3 developer || Blockchain developer
+Full stack developer || web3 developer || Blockchain developer<br>
 Destined to be next king of the pirates 🏴‍☠️
 
 # You can connect with me on :
